@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-sord12k&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-sord12k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-sord12k" alt="avinash-sord12k" /></a> </p>
-
 - 🔭 I’m currently working on [neural network reinforcement learning](https://github.com/Avinash-sord12k/NN-reinforcement-with-GA)
 
 - 👨‍💻 All of my projects are available at [https://avinash-sord12k.github.io/](https://avinash-sord12k.github.io/)
